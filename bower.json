@@ -1,0 +1,20 @@
+{
+  "name": "scale-down-image",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DiHuang1986/scale-down-image",
+  "authors": [
+    "DiHuang1986 <huang.di@live.com>"
+  ],
+  "main": "down-scale-image.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
